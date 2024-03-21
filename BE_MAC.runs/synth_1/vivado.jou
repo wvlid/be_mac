@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.1 (64-bit)
+# SW Build 3865809 on Sun May  7 15:04:56 MDT 2023
+# IP Build 3864474 on Sun May  7 20:36:21 MDT 2023
+# SharedData Build 3865790 on Sun May 07 13:33:03 MDT 2023
+# Start of session at: Tue Mar  5 15:15:38 2024
+# Process ID: 34507
+# Current directory: /home/elkhatir/Bureau/be_mac/BE_MAC/BE_MAC.runs/synth_1
+# Command line: vivado -log receiver.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source receiver.tcl
+# Log file: /home/elkhatir/Bureau/be_mac/BE_MAC/BE_MAC.runs/synth_1/receiver.vds
+# Journal file: /home/elkhatir/Bureau/be_mac/BE_MAC/BE_MAC.runs/synth_1/vivado.jou
+# Running On: insa-20545, OS: Linux, CPU Frequency: 4390.084 MHz, CPU Physical cores: 6, Host memory: 16545 MB
+#-----------------------------------------------------------
+source receiver.tcl -notrace

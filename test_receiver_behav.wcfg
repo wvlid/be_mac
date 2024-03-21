@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="test_receiver_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="test_receiver" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000000 us"></ZoomStartTime>
+      <ZoomEndTime time="4.081864 us"></ZoomEndTime>
+      <Cursor1Time time="9.000000 us"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="174"></NameColumnWidth>
+      <ValueColumnWidth column_width="101"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="24" />
+   <wvobject type="logic" fp_name="/test_receiver/clock">
+      <obj_property name="ElementShortName">clock</obj_property>
+      <obj_property name="ObjectShortName">clock</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_receiver/rst">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_receiver/rbytep_test">
+      <obj_property name="ElementShortName">rbytep_test</obj_property>
+      <obj_property name="ObjectShortName">rbytep_test</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_receiver/rcleanp_test">
+      <obj_property name="ElementShortName">rcleanp_test</obj_property>
+      <obj_property name="ObjectShortName">rcleanp_test</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_receiver/rcvngp_test">
+      <obj_property name="ElementShortName">rcvngp_test</obj_property>
+      <obj_property name="ObjectShortName">rcvngp_test</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_receiver/rdatao_test">
+      <obj_property name="ElementShortName">rdatao_test[7:0]</obj_property>
+      <obj_property name="ObjectShortName">rdatao_test[7:0]</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_receiver/rdonep_test">
+      <obj_property name="ElementShortName">rdonep_test</obj_property>
+      <obj_property name="ObjectShortName">rdonep_test</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_receiver/renabp_test">
+      <obj_property name="ElementShortName">renabp_test</obj_property>
+      <obj_property name="ObjectShortName">renabp_test</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_receiver/rsmatip_test">
+      <obj_property name="ElementShortName">rsmatip_test</obj_property>
+      <obj_property name="ObjectShortName">rsmatip_test</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_receiver/rstartp_test">
+      <obj_property name="ElementShortName">rstartp_test</obj_property>
+      <obj_property name="ObjectShortName">rstartp_test</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_receiver/rdatai_test">
+      <obj_property name="ElementShortName">rdatai_test[7:0]</obj_property>
+      <obj_property name="ObjectShortName">rdatai_test[7:0]</obj_property>
+   </wvobject>
+   <wvobject type="other" fp_name="/test_receiver/Periode">
+      <obj_property name="ElementShortName">Periode</obj_property>
+      <obj_property name="ObjectShortName">Periode</obj_property>
+   </wvobject>
+   <wvobject type="other" fp_name="/test_receiver/rcv/cpt">
+      <obj_property name="ElementShortName">cpt</obj_property>
+      <obj_property name="ObjectShortName">cpt</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_receiver/tabortp_test">
+      <obj_property name="ElementShortName">tabortp_test</obj_property>
+      <obj_property name="ObjectShortName">tabortp_test</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_receiver/tavailp_test">
+      <obj_property name="ElementShortName">tavailp_test</obj_property>
+      <obj_property name="ObjectShortName">tavailp_test</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_receiver/tdatai_test">
+      <obj_property name="ElementShortName">tdatai_test[7:0]</obj_property>
+      <obj_property name="ObjectShortName">tdatai_test[7:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test_receiver/tdatao_test">
+      <obj_property name="ElementShortName">tdatao_test[7:0]</obj_property>
+      <obj_property name="ObjectShortName">tdatao_test[7:0]</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_receiver/tdonep_test">
+      <obj_property name="ElementShortName">tdonep_test</obj_property>
+      <obj_property name="ObjectShortName">tdonep_test</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_receiver/tfinishp_test">
+      <obj_property name="ElementShortName">tfinishp_test</obj_property>
+      <obj_property name="ObjectShortName">tfinishp_test</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_receiver/tlastp_test">
+      <obj_property name="ElementShortName">tlastp_test</obj_property>
+      <obj_property name="ObjectShortName">tlastp_test</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_receiver/treaddp_test">
+      <obj_property name="ElementShortName">treaddp_test</obj_property>
+      <obj_property name="ObjectShortName">treaddp_test</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_receiver/trnsmtp_test">
+      <obj_property name="ElementShortName">trnsmtp_test</obj_property>
+      <obj_property name="ObjectShortName">trnsmtp_test</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_receiver/tstartp_test">
+      <obj_property name="ElementShortName">tstartp_test</obj_property>
+      <obj_property name="ObjectShortName">tstartp_test</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test_receiver/tsocolp_test">
+      <obj_property name="ElementShortName">tsocolp_test</obj_property>
+      <obj_property name="ObjectShortName">tsocolp_test</obj_property>
+   </wvobject>
+</wave_config>
